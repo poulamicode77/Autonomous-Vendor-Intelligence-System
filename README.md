@@ -1,6 +1,6 @@
 # Autonomous-Vendor-Intelligence-System
 
-![arch_diag](https://github.com/Deba951/autonomous-vendor-intelligence-system/blob/main/procureagent_architecture.svg)
+![arch_diag](https://github.com/poulamicode77/Autonomous-Vendor-Intelligence-System/blob/main/procureagent_architecture.svg)
 
 Now here's the complete deep-dive — every concept, every layer, every decision explained so you can answer anything thrown at you.
 
